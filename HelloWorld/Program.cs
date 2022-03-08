@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(" Welcome to Bridge labz !!!");
+        }
+
+
+        static void PrintWel()
+        {
+            Console.WriteLine("Welcome to all !!");
+        }
+    }
+}
+
