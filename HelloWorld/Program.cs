@@ -9,7 +9,10 @@ namespace HelloWorld
             Console.WriteLine(" Welcome to Bridge labz !!!");
         }
 
-
+        static void AddNewMember()
+        {
+            Console.WriteLine("new Student added!!");
+        }
         static void PrintWel()
         {
             Console.WriteLine("Welcome to all !!");
